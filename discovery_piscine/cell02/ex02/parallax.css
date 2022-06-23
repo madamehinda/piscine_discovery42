@@ -1,0 +1,66 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+body, html {
+  height: 100%;
+}
+
+
+
+#top { 
+  background: url(/mnt/nfs/homes/hferjani/Documents/ruudvanempel_World_1.jpg);
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-size: xx-large;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  }
+
+#block { 
+  background: black;
+  height: 100%;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+#bottom { background: url(https://www.actuailes.fr/kcfinder/upload/images/AAVdeuxlions%20.jpg);
+  height: 100%;
+  text-align: center;
+  font-size: large;
+  color: white;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-size: xx-large;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  }
+
+/*.contenant {
+  position: relative;
+  text-align: center;
+  color: red;
+}*/
+
+/*.texte_centrer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);}*/
+
